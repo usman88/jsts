@@ -32,7 +32,7 @@
     "rollup-plugin-replace": "1.1.1",
     "uglify-js": "3.0.24"
   },
-  "main": "dist/jsts.min.js",
+  "main": "src/jsts.js",
   "module": "index.js",
   "engines": {
     "node": ">= 6"
